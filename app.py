@@ -10,7 +10,9 @@ def hello():
 <b>Hello, new Jenkins file uploaded</b><br>
 <b>Thank you</b><br>
 <b>Rajeshwari TR</b><br>
-<b>Bangalore North</b>'''
+<b>Bangalore</b><br>
+<b>Karnataka</b>'''
+
 
 
 
